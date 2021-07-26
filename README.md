@@ -2,4 +2,4 @@
 
 # my-website
 Now editing on update-readme branch
-updated locally 
+updated locally , then remotely
